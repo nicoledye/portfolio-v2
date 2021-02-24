@@ -1,0 +1,27 @@
+[
+    {  
+        "id": 2,
+        "title": "Emma",
+        "description": "Lead development strategy & build for campaigns.",
+        "image": "/images/emmau.png",
+        "slug": "emma",
+        "open": false
+
+    },
+    {
+        "id": 1,
+        "title": "Nissan Stadium",
+        "description": "Developed Nissan Stadium site from ground up.",
+        "slug": "nissan",
+        "image": "/images/nissan-stadium.png",
+        "open": false
+    },
+    {
+        "id": 3,
+        "title": "Campaign Monitor",
+        "description": "Maintained site, built landing pages, fixed bugs.",
+        "slug": "cm",
+        "image": "/images/cm-lp-2.png",
+        "open": false
+    }
+]

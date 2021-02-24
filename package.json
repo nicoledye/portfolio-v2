@@ -1,0 +1,41 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "static": "next build && next export"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@hookform/error-message": "^0.0.4",
+    "@popmotion/popcorn": "^0.4.4",
+    "@sendgrid/mail": "^7.2.5",
+    "critters": "^0.0.6",
+    "emotion-normalize": "^10.1.0",
+    "framer-motion": "^2.7.7",
+    "gray-matter": "^4.0.2",
+    "jimp": "^0.16.1",
+    "next": "^10.0.4",
+    "node-glob": "^1.2.0",
+    "raw-loader": "^4.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-google-recaptcha": "^2.1.0",
+    "react-hook-form": "^6.7.2",
+    "react-markdown": "^5.0.3",
+    "react-modal-image": "^2.5.0",
+    "react-obfuscate": "^3.6.8",
+    "react-recaptcha": "^2.3.10",
+    "react-slideshow-image": "^3.4.3",
+    "react-toggle": "^4.1.1"
+  },
+  "license": "ISC"
+}

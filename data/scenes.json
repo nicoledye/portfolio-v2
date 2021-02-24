@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "name": "Chatime",
+    "image": "/images/Chatime.jpg"
+  },
+  {
+    "id": 1,
+    "image": "/images/pedal-tavern.jpg"
+  },{
+    "id": 2,
+    "image": "/images/Little-Caesars.jpg"
+  },{
+    "id": 3,
+    "image": "/images/wienerschnitzel.jpg"
+  },{
+    "id": 4,
+    "image": "/images/sonic.jpg"
+  },{
+    "id": 5,
+    "image": "/images/BenFlorentine.jpg"
+  },{
+    "id": 6,
+    "image": "/images/CaptainDs.jpg"
+  },{
+    "id": 7,
+    "image": "/images/Pancheros.jpg"
+  },{
+    "id": 8,
+    "image": "/images/ReneaRoberts.jpeg"
+  }, {
+    "id": 9,
+    "image": "/images/Just-Love-Tshirt.jpg"
+  },{
+    "id": 10,
+    "image": "/images/Just-Love.jpg"
+  },{
+    "id": 11,
+    "image": "/images/sushisushi.jpg"
+  }
+]
