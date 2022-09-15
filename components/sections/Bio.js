@@ -1,40 +1,39 @@
-import styled from '@emotion/styled'
-import { SectionHeading } from '../headings'
-import { above } from '../../utils'
+import styled from "@emotion/styled";
+import { SectionHeading } from "../headings";
+import { above } from "../../utils";
 
 const Bio = () => (
-  <BioSection id='about'>
+  <BioSection id="about">
     <BioInner>
-      <BioImg src='/images/nicole-dye.png' alt='Nicole Dye' />
+      <BioImg src="/images/nicole-dye.png" alt="Nicole Dye" />
       <BioContent>
-        <SectionHeading align='right' isImage={true}>
-          <img src='/images/squiggly-line.png' alt='Squiggly line' />
+        <SectionHeading align="right" isImage={true}>
+          <img src="/images/squiggly-line.png" alt="Squiggly line" />
           hello, my name is <h1>Nicole Dye</h1>
         </SectionHeading>
         <p>
-          Self-driven <em>Creative Director</em> with <strong>8+ years</strong>{' '}
-          of design and agency experience with an eye for innovation and
-          pixel-perfection. Designed, developed, and led the creative team on
-          100+ websites, including national brands such as Sonic Drive-In,
-          Little Caesars, Wienerschnitzel, Captain D’s, and D1 Training.
+          Self-driven, highly-collaborative and passionate <em>Art Director</em>{" "}
+          with <strong>8+ years</strong> of design experience and an eye for
+          innovation and pixel-perfection. I’ve worked with more than 100
+          brands, both national and local, developing websites, as well as
+          creating various types of print collateral in countless industries.
         </p>
         <p>
-          I have print collateral for countless clients, including Captain D’s,
-          California Closets, Lenny’s Subs, Wienerschnitzel, PostNet, Sonic
-          Drive-In, and other recognized brands, and was featured as a guest on
-          episode “How to Create a High-Performance Franchise Recruitment
-          Website” on franchising podcast “What the Franchise?”
+          My greatest expertise is bringing creative vision and out-of-the-box
+          thinking to each project while helping businesses build a successful
+          brand. I’m a life-long learner fueled by the desire to always bring my
+          absolute best to every project that lands on my desk.
         </p>
       </BioContent>
     </BioInner>
   </BioSection>
-)
+);
 
 const BioSection = styled.section`
   background: var(--bioBackground);
   padding: var(--defaultPadding) 0 0 0;
   color: var(--bioColor);
-`
+`;
 
 const BioInner = styled.div`
   display: flex;
@@ -48,7 +47,7 @@ const BioInner = styled.div`
     flex-direction: row;
     align-items: stretch;
   `}
-`
+`;
 
 const BioImg = styled.img`
   width: 450px;
@@ -59,7 +58,7 @@ const BioImg = styled.img`
   ${above.desktop`
     margin-bottom: 0;
   `}
-`
+`;
 
 const BioContent = styled.div`
   width: 450px;
@@ -87,6 +86,6 @@ const BioContent = styled.div`
   span {
     display: block;
   }
-`
+`;
 
-export default Bio
+export default Bio;

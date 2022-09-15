@@ -1,41 +1,74 @@
 [
   {
-    "id": 0,
-    "name": "Chatime",
-    "image": "/images/Chatime.jpg"
+    "id": 1,
+    "image": "/images/Explorer.png"
   },
   {
-    "id": 1,
-    "image": "/images/pedal-tavern.jpg"
-  },{
     "id": 2,
-    "image": "/images/Little-Caesars.jpg"
-  },{
+    "image": "/images/Atlas.png"
+  },
+  {
     "id": 3,
-    "image": "/images/wienerschnitzel.jpg"
-  },{
+    "image": "/images/DJNye.png"
+  },
+  {
     "id": 4,
-    "image": "/images/sonic.jpg"
-  },{
+    "image": "/images/DTG.png"
+  },
+  {
     "id": 5,
-    "image": "/images/BenFlorentine.jpg"
-  },{
+    "image": "/images/PSC.png"
+  },
+  {
     "id": 6,
-    "image": "/images/CaptainDs.jpg"
-  },{
+    "image": "/images/ion.png"
+  },
+  {
     "id": 7,
-    "image": "/images/Pancheros.jpg"
-  },{
+    "image": "/images/asurion-under-construction.png"
+  },
+  {
     "id": 8,
-    "image": "/images/ReneaRoberts.jpeg"
-  }, {
+    "image": "/images/Asurion-wpsltns.png"
+  },
+  {
     "id": 9,
-    "image": "/images/Just-Love-Tshirt.jpg"
-  },{
+    "image": "/images/pedal-tavern.jpg"
+  },
+  {
     "id": 10,
-    "image": "/images/Just-Love.jpg"
-  },{
+    "image": "/images/Little-Caesars.jpg"
+  },
+  {
     "id": 11,
+    "image": "/images/wienerschnitzel.jpg"
+  },
+  {
+    "id": 12,
+    "image": "/images/sonic.jpg"
+  },
+  {
+    "id": 13,
+    "image": "/images/BenFlorentine.jpg"
+  },
+  {
+    "id": 14,
+    "image": "/images/CaptainDs.jpg"
+  },
+  {
+    "id": 15,
+    "image": "/images/Pancheros.jpg"
+  },
+  {
+    "id": 16,
+    "image": "/images/Just-Love-Tshirt.jpg"
+  },
+  {
+    "id": 17,
+    "image": "/images/Just-Love.jpg"
+  },
+  {
+    "id": 18,
     "image": "/images/sushisushi.jpg"
   }
 ]
