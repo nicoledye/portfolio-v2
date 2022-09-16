@@ -13,14 +13,16 @@ import { above, below } from "../../utils";
 
 const Skills = () => {
   const icons = [
-    "icon-css3.png",
-    "icon-html5.png",
-    "icon-illustrator.png",
-    "icon-indesign.png",
-    "icon-invision.png",
-    "icon-lightroom.png",
-    "icon-photoshop.png",
-    "icon-wordpress.png",
+    "1-Ps.svg",
+    "2-Ai.svg",
+    "3-Id.svg",
+    "4-Xd.svg",
+    "5-Lr.svg",
+    "6-Figma.svg",
+    "7-Wordpress.svg",
+    "8-CSS.svg",
+    "9-HTML.svg",
+    "10-invision.svg",
   ];
 
   return (
